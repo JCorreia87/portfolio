@@ -1,0 +1,26 @@
+{
+    "serviceType": [{
+            "id": 1,
+            "type": "Website Development",
+            "class": ".web-development"
+        },
+        {
+            "id": 2,
+            "type": "Hybrid development with flutter",
+            "class": ".hybrid-development"
+        },
+        {
+            "id": 3,
+            "type": "3d Printing",
+            "class": ".3dPrinting"
+        },
+        {
+            "id": 4,
+            "type": "IOT",
+            "class": ".iot"
+        }
+    ],
+    "services": [{
+
+    }]
+}
